@@ -35,10 +35,9 @@ main{
 	text-align: center;
 }
 main img{
-	border-radius: 250px;
+	border-radius: 170px;
 	width: 300;
 	border: 10px solid black;
-	margin-top: 20px;
 }
 p{
 	color: black;
